@@ -1,0 +1,21 @@
+{
+  "tests": [
+    {
+      "test-module": "Customer",
+      "test-name": "Add-Customer",
+      "test-data": "2020-12-19",
+      "test-time": "11:41",
+      "test-status": true
+    },
+    {
+      "test-module": "Inventory",
+      "test-name": "Add-Product",
+      "test-data": "2020-12-19",
+      "test-time": "11:43",
+      "test-status": true
+    }
+  ],
+  "test-start-time": "11:43",
+  "test-end-time": "11:45",
+  "test-executed-by": "Yusuf"
+}

@@ -1,0 +1,3 @@
+Login successfully
+Plan saved successfully
+Log Out Successfully

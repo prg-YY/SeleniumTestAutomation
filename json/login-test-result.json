@@ -1,0 +1,35 @@
+{
+  "tests": [
+    {
+      "test-module": "Login",
+      "test-name": "Login",
+      "test-data": "2020-12-19",
+      "test-time": "10-37-44-55",
+      "test-status": true
+    },
+    {
+      "test-module": "Login",
+      "test-name": "Login",
+      "test-data": "2020-12-19",
+      "test-time": "10-37-53-93",
+      "test-status": true
+    },
+    {
+      "test-module": "Login",
+      "test-name": "Login",
+      "test-data": "2020-12-19",
+      "test-time": "10-38-01-98",
+      "test-status": true
+    },
+    {
+      "test-module": null,
+      "test-name": null,
+      "test-data": null,
+      "test-time": null,
+      "test-status": null
+    }
+  ],
+  "test-start-time": "Sat Dec 19 10:37:44 CET 2020",
+  "test-end-time": "2020-12-19 10-38-10-30",
+  "test-executed-by": "prg"
+}

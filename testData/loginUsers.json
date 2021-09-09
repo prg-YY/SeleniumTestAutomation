@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "username": "testautomation",
+      "password": "automation123!",
+      "usertype": "Admin",
+      "age": "22"
+    },
+    {
+      "username": "testautomation1",
+      "password": "automation123!",
+      "usertype": "customer",
+      "age": "20"
+    },
+    {
+      "username": "testautomation2",
+      "password": "automation123!",
+      "usertype": "manager",
+      "age": "25"
+    }
+  ]
+}
